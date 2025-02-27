@@ -12,7 +12,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="figma logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40" alt="photoshop logo"  />
 </div>
 
