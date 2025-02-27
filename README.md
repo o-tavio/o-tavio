@@ -1,10 +1,29 @@
-<h1 align="center">Hi 👋, I'm Otávio</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h1 align="left">👋 Hi, I'm Otávio!</h1>
 
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left">❓ A Back-End beginner & student.<br>👨‍💻 Future Software Engineer.<br>📚 I'm currently learning Java.</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=o-tavio&show_icons=true&locale=en" alt="o-tavio" /></p>
+###
+
+<h2 align="left">Design</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<h2 align="left">Forums</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
