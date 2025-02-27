@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">❓ A Back-End beginner & student.<br>👨‍💻 Future Software Engineer.<br>📚 I'm currently learning Java.</p>💻 Cybersecurity enthusiast</p>
+<p align="left">❓ A Back-End beginner & student.<br>👨‍💻 Future Software Engineer.<br>📚 I'm currently learning Java.<br>💻 Cybersecurity enthusiast</p>
 
 ###
 
